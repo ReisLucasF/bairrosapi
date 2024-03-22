@@ -4,6 +4,7 @@ const app = express();
 
 const data = JSON.parse(fs.readFileSync('bairros.json', 'utf-8'));
 
+// tt
 app.get('/:uf/:cidade', (req, res) => {
     const { uf, cidade } = req.params;
 
