@@ -14,6 +14,6 @@
     "morgan": "^1.10.0",
     "mysql": "^2.18.1",
     "nodemon": "^3.1.0",
-    "puppeteer": "^22.6.0"
+    "puppeteer": "^22.15.0"
   }
 }
